@@ -17,7 +17,7 @@ Technologies Used
 - Database: MySQL
 
 Installation
-1. Clone the repository: 
+1. Clone the repository: https://github.com/navyapadukone10/Bakebite-Cafe-Mangement-System
 2. Install dependencies:  npm install or pip install
 3. Configure database settings: use cafenodejs
 4. Start the application: for backend npm start
