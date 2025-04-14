@@ -1,6 +1,5 @@
-**BAKEBITE CAFE MANGEMENT SYSTEM
-**
-Overview
+BAKEBITE CAFE MANGEMENT SYSTEM
+
 Bakebite Cafe Management System is a comprehensive solution for managing cafe operations. It provides a user-friendly interface to perform CRUD (Create, Read, Update, Delete) operations on:
 - Categories: manage menu categories
 - Products: manage menu items
