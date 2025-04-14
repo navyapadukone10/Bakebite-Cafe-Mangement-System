@@ -1,0 +1,1 @@
+{"version":3,"sources":["manage-product.component.scss"],"names":[],"mappings":"AAAA,aACE,MAAO,MAGT,SACE,QAAS,KAGX,MACE,MAAO","file":"manage-product.component.min.css","sourcesContent":[".float-right{\r\n    float: right;\r\n}\r\n\r\nmat-card{\r\n    padding: 20px;\r\n\r\n}\r\n\r\ntable{\r\n    width: 100%;\r\n}"]}

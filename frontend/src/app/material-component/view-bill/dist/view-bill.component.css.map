@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["view-bill.component.scss"],"sourcesContent":["\r\n\r\nmat-card{\r\n    padding: 20px;\r\n\r\n}\r\n\r\ntable{\r\n    width: 100%;\r\n}"],"file":"view-bill.component.css"}

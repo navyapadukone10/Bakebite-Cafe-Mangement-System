@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["manage-category.component.scss"],"sourcesContent":[".float-right{\r\n    float: right;\r\n}\r\n\r\nmat-card{\r\n    padding: 20px;\r\n\r\n}\r\n\r\ntable{\r\n    width: 100%;\r\n}"],"file":"manage-category.component.css"}

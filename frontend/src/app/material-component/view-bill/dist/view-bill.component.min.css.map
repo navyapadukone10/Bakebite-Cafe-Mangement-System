@@ -1,0 +1,1 @@
+{"version":3,"sources":["view-bill.component.scss"],"names":[],"mappings":"AAAA,SACE,QAAS,KAGX,MACE,MAAO","file":"view-bill.component.min.css","sourcesContent":["\r\n\r\nmat-card{\r\n    padding: 20px;\r\n\r\n}\r\n\r\ntable{\r\n    width: 100%;\r\n}"]}

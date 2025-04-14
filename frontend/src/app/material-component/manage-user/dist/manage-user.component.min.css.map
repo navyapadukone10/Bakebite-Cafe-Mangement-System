@@ -1,0 +1,1 @@
+{"version":3,"sources":["manage-user.component.scss"],"names":[],"mappings":"AAAA,SACE,QAAS,KAGX,MACE,MAAO","file":"manage-user.component.min.css","sourcesContent":["mat-card{\r\n    padding: 20px;\r\n}\r\n\r\ntable{\r\n    width: 100%;\r\n}"]}

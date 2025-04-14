@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["signup.component.scss"],"sourcesContent":[".mat-toolbar{\r\n    margin: -24px;\r\n    width: auto;\r\n    margin-bottom: 10px;\r\n}\r\n.title-center{\r\n    flex: 1 1 auto;\r\n    text-align: center;\r\n}\r\n\r\nmat-form-field{\r\n    padding: 5px;\r\n}\r\n"],"file":"signup.component.css"}

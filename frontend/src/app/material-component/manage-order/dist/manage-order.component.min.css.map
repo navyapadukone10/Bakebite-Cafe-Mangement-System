@@ -1,0 +1,1 @@
+{"version":3,"sources":["manage-order.component.scss"],"names":[],"mappings":"AAAA,eACE,QAAS,IAGX,aACE,MAAO,MAGT,MACE,MAAO,KAGT,SACE,QAAS,GAAG","file":"manage-order.component.min.css","sourcesContent":["mat-form-field{\r\n    padding: 5px;\r\n}\r\n\r\n.float-right{\r\n    float:right;\r\n}\r\ntable{\r\n    width: 100%;\r\n}\r\nmat-card{\r\n    padding: 30 px !important;\r\n}"]}
