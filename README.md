@@ -21,11 +21,11 @@ Installation
 1. Clone the repository: https://github.com/navyapadukone10/Bakebite-Cafe-Mangement-System
 2. Install dependencies:  npm install or pip install
 3. Configure database settings: use cafenodejs
-4. Start the application: for backend npm start
+4. Start the application: for backend npm start,
                           for frontend ng serve
 
 Usage
 1. Access the application:  http://localhost:4200
 2. Login with admin credentials: username: Admin, password: admin
 
-
+Reference: https://youtube.com/playlist?list=PLdRq0mbeEBmybqNI7hdNPp8RrYaIVkZlW&si=R2_J9v1CWj584yqX
